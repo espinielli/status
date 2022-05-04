@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)  
-2022-05-03 07:24:13 UTC
+2022-05-04 07:23:51 UTC
 
 | Repo                                                                              | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                  | Commit                                                                                                                                                         |
 | :-------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,35 +13,35 @@ GitHub Dashboard
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                           |     9 |           2 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/R-CMD-check/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334047205)                                  | <a href="https://github.com/euctrl-pru/nvctr/commit/6cdb615648d4608921be0b3e73e008683a691f60" title="prepare for v0.1.5">6cdb61</a>                            |
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                           |     9 |           2 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/pkgdown/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334047201)                                      | <a href="https://github.com/euctrl-pru/nvctr/commit/6cdb615648d4608921be0b3e73e008683a691f60" title="prepare for v0.1.5">6cdb61</a>                            |
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                           |     9 |           2 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/Render%20README/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334034661)                              | <a href="https://github.com/euctrl-pru/nvctr/commit/d6a83f433c74bd11480381dbab33fd97762386fb" title="new patch version">d6a83f</a>                             |
-| [espinielli/italian-comuni-bot](https://github.com/espinielli/italian-comuni-bot) |     3 |           1 |      0 |     0 | [![](https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg)](https://github.com/espinielli/italian-comuni-bot/actions/runs/565957859) | <a href="https://github.com/espinielli/italian-comuni-bot/commit/4b9a88f33527b8d7d2ac4be0c22dfe9978df3a0c" title="stored index of last tweeted map">4b9a88</a> |
-| [espinielli/status](https://github.com/espinielli/status)                         |     1 |           1 |      0 |     2 | [![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)](https://github.com/espinielli/status/actions/runs/2262454680)                           | <a href="https://github.com/espinielli/status/commit/a3b206265b451e49fcae9e8d4993a9f78c186948" title="[status] 2022-05-02 07:24:56 UTC">a3b206</a>             |
+| [espinielli/italian-comuni-bot](https://github.com/espinielli/italian-comuni-bot) |     4 |           1 |      0 |     0 | [![](https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg)](https://github.com/espinielli/italian-comuni-bot/actions/runs/565957859) | <a href="https://github.com/espinielli/italian-comuni-bot/commit/4b9a88f33527b8d7d2ac4be0c22dfe9978df3a0c" title="stored index of last tweeted map">4b9a88</a> |
+| [espinielli/status](https://github.com/espinielli/status)                         |     1 |           1 |      0 |     2 | [![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)](https://github.com/espinielli/status/actions/runs/2268319025)                           | <a href="https://github.com/espinielli/status/commit/cb7969a6b50b3a1ec885aaaf3225412adce4b611" title="[status] 2022-05-03 07:24:30 UTC">cb7969</a>             |
 
 ## Repos without Github Actions
 
 | Repo                                                                                     | Stars | Subscribers | Issues | Forks |
 | :--------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
-| [espinielli/pycalcal](https://github.com/espinielli/pycalcal)                            |    22 |           4 |      2 |     8 |
-| [espinielli/astraljs](https://github.com/espinielli/astraljs)                            |     7 |           2 |      0 |     1 |
+| [espinielli/pycalcal](https://github.com/espinielli/pycalcal)                            |    23 |           4 |      2 |     8 |
+| [espinielli/astraljs](https://github.com/espinielli/astraljs)                            |     8 |           2 |      0 |     2 |
 | [espinielli/dotfiles](https://github.com/espinielli/dotfiles)                            |     3 |           1 |      0 |     0 |
+| [espinielli/RintheAIR](https://github.com/espinielli/RintheAIR)                          |     3 |           0 |      0 |     0 |
 | [espinielli/stcalcal](https://github.com/espinielli/stcalcal)                            |     3 |           1 |      0 |     1 |
 | [espinielli/osn](https://github.com/espinielli/osn)                                      |     2 |           1 |      1 |     1 |
-| [espinielli/RintheAIR](https://github.com/espinielli/RintheAIR)                          |     2 |           0 |      0 |     0 |
 | [espinielli/chronos](https://github.com/espinielli/chronos)                              |     1 |           2 |      0 |     1 |
+| [espinielli/circflows](https://github.com/espinielli/circflows)                          |     1 |           1 |      0 |     0 |
+| [espinielli/espinielli](https://github.com/espinielli/espinielli)                        |     1 |           1 |      0 |     0 |
 | [espinielli/eweb](https://github.com/espinielli/eweb)                                    |     1 |           1 |      0 |     0 |
 | [espinielli/firs](https://github.com/espinielli/firs)                                    |     1 |           1 |      0 |     2 |
+| [espinielli/flowsr](https://github.com/espinielli/flowsr)                                |     1 |           1 |      0 |     0 |
+| [espinielli/homebrew-rubinetto](https://github.com/espinielli/homebrew-rubinetto)        |     1 |           1 |      0 |     0 |
+| [espinielli/ifrflows](https://github.com/espinielli/ifrflows)                            |     1 |           1 |      0 |     0 |
 | [espinielli/pyometa](https://github.com/espinielli/pyometa)                              |     1 |           1 |      0 |     0 |
+| [espinielli/raytracing](https://github.com/espinielli/raytracing)                        |     1 |           1 |      0 |     0 |
 | [espinielli/theblitz](https://github.com/espinielli/theblitz)                            |     1 |           1 |      0 |     0 |
 | [espinielli/addressbook](https://github.com/espinielli/addressbook)                      |     0 |           1 |      0 |     0 |
 | [espinielli/bartholomew\_explained](https://github.com/espinielli/bartholomew_explained) |     0 |           2 |      0 |     1 |
 | [espinielli/blog](https://github.com/espinielli/blog)                                    |     0 |           1 |      0 |     1 |
-| [espinielli/circflows](https://github.com/espinielli/circflows)                          |     0 |           1 |      0 |     0 |
 | [espinielli/circr](https://github.com/espinielli/circr)                                  |     0 |           1 |      0 |     0 |
-| [espinielli/espinielli](https://github.com/espinielli/espinielli)                        |     0 |           1 |      0 |     0 |
-| [espinielli/flowsr](https://github.com/espinielli/flowsr)                                |     0 |           1 |      0 |     0 |
-| [espinielli/homebrew-rubinetto](https://github.com/espinielli/homebrew-rubinetto)        |     0 |           1 |      0 |     0 |
-| [espinielli/ifrflows](https://github.com/espinielli/ifrflows)                            |     0 |           1 |      0 |     0 |
 | [espinielli/knowledgecity](https://github.com/espinielli/knowledgecity)                  |     0 |           1 |      0 |     0 |
-| [espinielli/raytracing](https://github.com/espinielli/raytracing)                        |     0 |           1 |      0 |     0 |
 | [espinielli/scrap](https://github.com/espinielli/scrap)                                  |     0 |           1 |      0 |     0 |
 | [espinielli/showandtell](https://github.com/espinielli/showandtell)                      |     0 |           1 |      0 |     0 |
 | [espinielli/watch](https://github.com/espinielli/watch)                                  |     0 |           1 |      0 |     0 |
